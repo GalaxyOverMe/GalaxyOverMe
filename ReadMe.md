@@ -2,10 +2,10 @@
 우리 함께 SAI에서 좋은 추억을 만들어봐요!
 <br>
 <h3> Activity </h3><hr>
-<mark style="background-color:lightgray">추가 예정</mark>
+<p style="background-color:gray">추가 예정</p>
 <br><br>
 <h3> Project </h3><hr>
-<mark style="background-color:lightgray">추가 예정</mark>
+<p style="background-color:gray">추가 예정</p>
 <br><br>
 
 
