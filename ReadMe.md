@@ -1,12 +1,19 @@
 <h3> Introduce </h3><hr>
 우리 함께 SAI에서 좋은 추억을 만들어봐요!
 <br>
+
 <h3> Activity </h3><hr>
-<p style="background-color:gray">추가 예정</p>
+추가예정
 <br><br>
+
 <h3> Project </h3><hr>
-<p style="background-color:gray">추가 예정</p>
+추가예정
 <br><br>
+
+<h3> Interest </h3><hr>
+ML, CV, Android
+
+
 
 
 
