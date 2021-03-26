@@ -1,9 +1,11 @@
 <h3> Introduce </h3><hr>
-I'm Chobo Developer 
+우리 함께 SAI에서 좋은 추억을 만들어봐요!
 <br>
 <h3> Activity </h3><hr>
+<mark style="background-color:lightgray">추가 예정</mark>
 <br><br>
 <h3> Project </h3><hr>
+<mark style="background-color:lightgray">추가 예정</mark>
 <br><br>
 
 
