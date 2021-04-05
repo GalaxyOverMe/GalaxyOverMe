@@ -11,7 +11,7 @@
 <br><br>
 
 <h3> Interest </h3><hr>
-ML, CV, Android
+AI, CV, Android
 <br><br>
 
 
