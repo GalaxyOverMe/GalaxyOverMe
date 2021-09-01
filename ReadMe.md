@@ -1,19 +1,10 @@
-<h3> Introduce </h3><hr>
+<h3> 3-2에 해야할 것 </h3>
+![image](https://user-images.githubusercontent.com/80030558/131632675-eeb6f944-d264-4fa1-a27c-f735eb6858e9.png)
+![image](https://user-images.githubusercontent.com/80030558/131632703-16f0cc97-04db-48b3-9e94-f7cbf9e9e581.png)
+![image](https://user-images.githubusercontent.com/80030558/131632735-3c0b8882-72ba-4b35-9c5f-c93d85037ccb.png)
 
-<br>
-
-<h3> Activity </h3><hr>
-
-<br><br>
-
-<h3> Project </h3><hr>
-<br><br>
-
-<h3> Interest </h3><hr>
-<br><br>
+<h3> 3학년 겨울방학에 해야할 것</h3>
+![image](https://user-images.githubusercontent.com/80030558/131632805-3aeb8ffd-956a-446e-98be-a9a7f3c4edc8.png)
+![image](https://user-images.githubusercontent.com/80030558/131632849-e9e373dc-8c6c-4e53-aa7a-ab95b464f6c0.png)
 
 
-<img width = "300" src="https://thepaintsesh.com/wp-content/uploads/2019/02/WineTime-800x800.jpg">
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGalaxyOverMe%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
