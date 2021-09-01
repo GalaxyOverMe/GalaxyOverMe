@@ -16,3 +16,20 @@
 </p>
 
 
+<hr>
+
+<h3> 4th vacation </h3>
+<p>
+<img src = "https://user-images.githubusercontent.com/80030558/131634870-269c5c19-0226-4048-837d-1aacca1fba14.png" width = "400" height = "200">
+<img src = "https://user-images.githubusercontent.com/80030558/131635043-ada7b683-1ccc-41b6-8344-9e0c2d2ebf46.png" width = "200" height = "266">
+</p>
+
+<h3> 5th semester </h3>
+
+[동적 틀린그림 찾기](https://github.com/GalaxyOverMe/Dynamic_SpotTheDifference)
+
+
+<h3> 5th vacation </h3>
+
+[2021 경희대학교 창의적 종합 설계 경진대회](https://github.com/GalaxyOverMe/Exercise-calibration-using-wearable-devices)
+
