@@ -1,4 +1,4 @@
-<h3> 3-2 </h3>
+<h3> 6th semester </h3>
 
 <p>
 <img src = "https://user-images.githubusercontent.com/80030558/131632675-eeb6f944-d264-4fa1-a27c-f735eb6858e9.png" width = "200" height = "266">
@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3> 3rd winter vacation</h3>
+<h3> 6th vacation</h3>
 
 <p>
 <img src = "https://user-images.githubusercontent.com/80030558/131632805-3aeb8ffd-956a-446e-98be-a9a7f3c4edc8.png" width = "200" height = "266">
