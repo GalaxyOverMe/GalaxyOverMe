@@ -33,5 +33,5 @@
 
 <h3> 5th vacation </h3>
 
-[2021 경희대학교 창의적 종합 설계 경진대회](https://github.com/GalaxyOverMe/Exercise-calibration-using-wearable-devices)
+[웨어러블 기기를 이용한 운동교정](https://github.com/GalaxyOverMe/Exercise-calibration-using-wearable-devices)
 
