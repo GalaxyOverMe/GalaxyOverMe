@@ -28,7 +28,7 @@
 
 <h3> 5th semester </h3>
 
-[동적 틀린그림 찾기](https://github.com/GalaxyOverMe/Dynamic_SpotTheDifference)
+[틀린그림 찾기 Generator](https://github.com/GalaxyOverMe/Dynamic_SpotTheDifference)
 
 
 <h3> 5th vacation </h3>
